@@ -26,5 +26,6 @@ public class E03BinarySearch {
     public static void main(String[] args) {
         int[] arry={1,6,9,70,80,90};
         System.out.println(search(arry, 70));
+        System.out.println(search(arry, 90));
     }
 }
